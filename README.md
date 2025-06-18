@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning M.Sc Data Science
 - 💞️ I’m looking to collaborate on Data Analytics Project
-- 📫 Reach me through my Linkdin
+- 📫 Reach me through my LinkedIn
 
 <!---
 hackerabhay1/hackerabhay1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
